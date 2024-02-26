@@ -32,3 +32,7 @@ Sobre Mim
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
+
+</br></br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=donut&theme=swift)](https://github.com/luanmnogueira/github-readme-stats)
