@@ -8,6 +8,11 @@ Sobre Mim
 
 <h2></h2>
 
+</br>
+
+![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift)
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
+
 <p>Tecnologias e ferramentas de estudo:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
