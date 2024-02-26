@@ -1,4 +1,4 @@
-<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"><br><br>Bem vindo ao meu perfil!</h1>
+<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"><br>Bem vindo ao meu perfil!</h1>
 
 Sobre Mim
 - 🎨 Apaixonado por design gráfico e UI/UX. 
@@ -6,9 +6,9 @@ Sobre Mim
 - 🔒 Estudando cibersegurança para criar produtos mais seguros.
 - 🌱 Sempre aprendendo e buscando novos desafios.
 
-  <br>
+<h2></h2>
 
-<p>Tecnologias e ferramentas:</p>
+<p>Tecnologias e ferramentas de estudo:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
