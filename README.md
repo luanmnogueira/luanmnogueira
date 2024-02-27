@@ -1,13 +1,21 @@
-<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"><br>Bem vindo ao meu perfil!</h1>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--título-->
+<h1 align="center">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"> Bem vindo ao meu perfil!</h1>
+
+
+<!--descrição-->
 Sobre Mim
 - 🎨 Apaixonado por design gráfico e UI/UX. 
 - 💻 Focado em desenvolvimento front-end e mobile.
 - 🔒 Estudando cibersegurança para criar produtos mais seguros.
 - 🌱 Sempre aprendendo e buscando novos desafios.
 
-<h2></h2>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<!--tecnologias-->
 <p>Tecnologias e ferramentas de estudo:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -33,9 +41,14 @@ Sobre Mim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-<h2></h2>
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 </br>
 
-![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift)
-<img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
+<!--cards-->
+![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift) 
+<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
+
+<!--divisor-->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
