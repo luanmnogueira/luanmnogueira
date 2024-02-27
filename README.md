@@ -1,9 +1,7 @@
-<!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 <!--título-->
-<h1 align="center">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"> Bem vindo ao meu perfil!</h1>
-
+<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"> Bem vindo ao meu perfil!</h1>
 
 <!--descrição-->
 Sobre Mim
@@ -13,7 +11,7 @@ Sobre Mim
 - 🌱 Sempre aprendendo e buscando novos desafios.
 
 <!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2></h2>
 
 <!--tecnologias-->
 <p>Tecnologias e ferramentas de estudo:</p>
@@ -42,7 +40,7 @@ Sobre Mim
 </div>
 
 <!--divisor-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<h2></h2>
 
 </br>
 
@@ -52,3 +50,4 @@ Sobre Mim
 
 <!--divisor-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
