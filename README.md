@@ -10,11 +10,11 @@ Sobre Mim
 - 🔒 Estudando cibersegurança para criar produtos mais seguros.
 - 🌱 Sempre aprendendo e buscando novos desafios.
 
-<!--divisor-->
+<!--divisor-simples-->
 <h2></h2>
 
 <!--tecnologias-->
-<p>Tecnologias e ferramentas de estudo:</p>
+<p>Tecnologias e ferramentas que estudo:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -39,7 +39,7 @@ Sobre Mim
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-<!--divisor-->
+<!--divisor-simples-->
 <h2></h2>
 
 </br>
@@ -48,6 +48,6 @@ Sobre Mim
 ![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift) 
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
 
-<!--divisor-->
+<!--divisor-gif-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
