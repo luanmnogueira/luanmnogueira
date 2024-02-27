@@ -38,4 +38,4 @@ Sobre Mim
 </br>
 
 ![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift)
-<img width="41%" height="196px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
+<img width="41%" height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
