@@ -1,7 +1,7 @@
 
 
 <!--título-->
-<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"> Bem vindo ao meu perfil!</h1>
+<h1 align="left">Olá. <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30"> Bem-vindo ao meu perfil!</h1>
 
 <!--descrição-->
 Sobre Mim
