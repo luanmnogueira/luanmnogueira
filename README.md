@@ -13,7 +13,6 @@ Sobre Mim
 <h2></h2>
 
 <!--tecnologias-->
-<img align="right" width="130" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
 <p>Tecnologias e ferramentas que estudo:</p>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"  />
@@ -44,10 +43,13 @@ Sobre Mim
 
 </br>
 
+<!--img computador-->
+<img align="right" width="250" src="https://user-images.githubusercontent.com/74038190/219925470-37670a3b-c3e2-4af7-b468-673c6dd99d16.png">
+
 <!--cards-->
-![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift) 
+<!--![luanmnogueira GitHub stats](https://github-readme-stats.vercel.app/api?username=luanmnogueira&show_icons=true&theme=swift)-->
 <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luanmnogueira&layout=compact&theme=swift" />
 
-<!--divisor-gif-->
+<!--divisor-animado-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
