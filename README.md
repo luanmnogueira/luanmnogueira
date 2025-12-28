@@ -4,8 +4,6 @@
 <!--descrição-->
 Sobre Mim
 <img align="right" width="50" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif">
-- 🎨 Apaixonado por design gráfico e UI/UX. 
-- 💻 Focado em desenvolvimento front-end e mobile.
 - 🔒 Estudando cibersegurança para criar produtos mais seguros.
 - 🌱 Sempre aprendendo e buscando novos desafios.
 
